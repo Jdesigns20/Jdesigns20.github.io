@@ -2,10 +2,67 @@
     color: green;
 }
 
-#t2-s1 {
+#t2 span {
     color: #f711f7;
 }
 
-#t2-s2 {
-    color:#f711f7;
+#t3-s1 {
+    color: red;
+}
+
+#t3-s2 {
+    color: goldenrod;
+}
+
+#t3-s3 {
+    color: blue;
+}
+
+#t4 {
+    background-color: skyblue;
+}
+
+#t5-s1 {
+    background-color: yellow;
+}
+
+#t6-s1,
+#t6-s2 {
+     font-weight: bolder;
+}
+
+#t7-s1 {
+    font-weight: bolder;
+}
+
+#t7-s2,
+#t7-s3 {
+    font-style: italic;
+}
+
+#t8 span {
+    text-decoration: underline;
+}
+
+#t9-s1 {
+    font-size: 36px;
+}
+
+#t10-p1 {
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+#t10-p2 {
+    font-size: 48px;
+    text-align: center;
+
+}
+
+#t10-p3 {
+    font-size: 24px;
+    font-style: italic;
+    text-align: center;
 }
