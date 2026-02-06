@@ -1,0 +1,37 @@
+ #container {
+    width: 500px;
+    min-height: 100vh;
+    background-color: 0f0f326;
+    font-size: 0px;
+}
+
+.block {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: antiquewhite;
+}
+
+.lavender {
+    background-color: #e9c7ff;
+}
+
+.red {
+    background-color: #ca0805;
+}
+
+.blue {
+    background-color: rgb(0, 0, 135);
+}
+
+.yellow {
+    background-color: rgb(191, 191, 7);
+}
+
+.green {
+    background-color: rgb(1, 82, 1);
+}
+
+.purple {
+    background-color: rgb(88, 0, 88);
+}
