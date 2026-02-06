@@ -1,0 +1,55 @@
+.color-palette {
+    box-shadow: 6px 6px 12px #989898;
+    text-align: center;
+    margin: 24px;
+    padding: 24px;
+}
+
+.color {
+    margin: 0px;
+    padding: 24px;
+}
+
+#p1-c1 {
+    background-color: #090C08;
+    color: white;
+}
+
+#p1-c2 {
+    background-color: #474056;
+    color: white;
+}
+
+#p1-c3 {
+    background-color: #757083;
+    color: white;
+}
+
+#p2-c1 {
+    background-color: #241023;
+    color: white;
+}
+
+#p2-c2 {
+    background-color: #6B0504;
+    color: white;
+}
+
+#p2-c3 {
+    background-color: #a3320b;
+    color: white;
+}
+
+#p3-c1 {
+    background-color: #FE4A49;
+    color: white;
+}
+
+#p3-c2 {
+    background-color: #FED766;
+}
+
+#p3-c3 {
+    background-color: #009FB7;
+    color: white;
+}
