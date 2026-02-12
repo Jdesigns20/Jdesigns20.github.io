@@ -1,0 +1,77 @@
+#morning {
+    background-color: #ffe9b7;
+    padding: 25px;
+    border-bottom: 2px solid #ffba19;
+    margin-bottom: 50px;
+}
+#morning .completed {
+    text-decoration: line-through;
+}
+#morning .important {
+    font-weight: bold;
+    color: #ffba19;
+}
+#morning .completed .important {
+    background-color: #c50e33;
+
+}
+#morning li {
+    padding: 10px;
+}
+#morning ul {
+    padding: 25px;
+    background-color: #d7dac4;
+}
+
+
+#afternoon {
+    background-color: #794213;
+    padding: 25px;
+    border-bottom: 2px solid #050505;
+    margin-bottom: 50px;
+}
+#afternoon .completed {
+    text-decoration: line-through;
+}
+#afternoon .important {
+    font-weight: bold;
+    color: #bfa92d;
+}
+#afternoon .completed .important {
+    background-color: #c50e33;
+
+}
+#afternoon li {
+    padding: 10px;
+}
+#afternoon ul {
+    padding: 25px;
+    background-color: #e7f2a1;
+}
+
+#evening {
+    background-color: #574f80;
+    padding: 25px;
+    border-bottom: 2px solid #1c4ae3;
+    margin-bottom: 50px;
+}
+#evening .completed {
+    text-decoration: line-through;
+}
+#evening .important {
+    font-weight: bold;
+    color: #bfa92d;
+}
+#evening .completed .important {
+    background-color: #c50e33;
+
+}
+#evening li {
+    padding: 10px;
+}
+#evening ul {
+    padding: 25px;
+    background-color: #8d7bba;
+}
+
+
