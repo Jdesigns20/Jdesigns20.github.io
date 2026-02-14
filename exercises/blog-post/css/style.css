@@ -19,7 +19,7 @@ h3 {
     box-sizing: border-box;
 }
 body {
-    margin: 0px;
+    padding: 10px;
     font-family: sans-serif;
 }
 
@@ -29,16 +29,9 @@ body {
     margin-left: auto;
     margin-right: auto;
     padding: 80px;
-    background-color: aqua;
+    background-color: rgb(185, 195, 195);
 }
 
-.light-container {
-    background-color: lightgreen;
-    padding: 48px 0px;
-}
-
-.dark-container {
-    background-color: darkgreen;
-    color: white;
-    padding: 48px 0px;
+p {
+    background-color: rgb(185, 195, 195);
 }
