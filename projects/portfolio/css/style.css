@@ -36,3 +36,21 @@ nav a {
     display: inline-block;
     border-radius: 20px;
 }
+
+.hm-gal {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.hm-gal img {
+    flex: 1;
+    height: 250px;
+    
+}
+
+.hm-gal {
+    display: flexbox;
+    border: 25px solid #000;
+    padding: 25px;
+    background-color: #000;
+}
